@@ -13,4 +13,5 @@ describe "say_hello" do
   end
 end
 
-def 
+def say_hello (name)
+  puts "Hello "
